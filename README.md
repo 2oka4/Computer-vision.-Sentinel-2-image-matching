@@ -29,5 +29,5 @@ The entire model creation process is implemented in the file *algorithm_creation
 Model inference was performed on the *images.csv* dataset created during the Data Preprocessing step. The resulting images with visualized matches are included in the *Model_inference_cv.ipynb* file.
 
 ## Additional Files
-- **potential_improvements.pdf**: Describes possible steps to improve the model's performance.
-- **requirements.txt**: Lists all libraries used in this project.
+- **potential_improvements_cv.pdf**: Describes possible steps to improve the model's performance.
+- **requirements_cv.txt**: Lists all libraries used in this project.
