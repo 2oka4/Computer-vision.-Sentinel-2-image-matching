@@ -9,3 +9,4 @@ cv2
 kornia
 torch
 kornia_moons
+pandas
